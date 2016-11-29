@@ -1,4 +1,4 @@
-Sex,Species,Thorax length (mm),Wing length (mm),Femur length (mm),Eye width (mm).,Third antennal segment (mm)
+Sex,Species,Thorax length,Wing length,Femur length,Eye width,Third antennal segment
 1,1,1.01,2.51,0.06,0.52,0.11
 1,1,0.98,2.45,0.05,0.53,0.12
 1,1,1.02,2.57,0.08,0.55,0.11
